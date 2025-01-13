@@ -291,4 +291,6 @@ again in `Ignite::_regiserWithChecks`.
 
 - Blacklisted addresses in the cases of tokens such as USDC will have failed transfers. This is expected.
 
+**Additional Known Issues as detected by LightChaser can be found [here](https://github.com/Cyfrin/2025-01-benqi/issues/1)**
+
 [//]: # (known-issues-close)
